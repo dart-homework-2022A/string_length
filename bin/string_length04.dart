@@ -9,3 +9,6 @@
 void main() {
   // write your code here
 }
+String func(String s) {
+  return "*" * s.length;
+}
