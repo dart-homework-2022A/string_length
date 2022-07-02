@@ -9,3 +9,7 @@
 void main() {
   // write your code here
 }
+
+bool func(String text) {
+  return text.length % 2 == 0;
+}
