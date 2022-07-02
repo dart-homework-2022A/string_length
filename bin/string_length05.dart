@@ -10,6 +10,6 @@
 void main() {
   // write your code here
 }
-int funt(String s1, String s2) {
+int func(String s1, String s2) {
   return s1.length + s2.length;
 }
